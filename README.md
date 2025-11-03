@@ -183,6 +183,9 @@ Permissions errors
 bash# Reset permissions
 sudo chown -R www-data:www-data /var/www/html/tracker
 sudo chmod -R 755 /var/www/html/tracker
+
+
+  
 📝 Project Structure
 intrusion-detection-system/
 ├── src/
@@ -202,14 +205,24 @@ intrusion-detection-system/
 ├── README.md
 ├── LICENSE
 └── .gitignore
+
+  
+  
 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
-📄 License
+
+  
+  📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-⚠️ Disclaimer
+
+  
+  ⚠️ Disclaimer
 This project is for educational purposes only. Always ensure you have proper authorization before deploying intrusion detection systems in production environments.
+
+  
 👨‍💻 Author
- Name - Ash77
+ Name - Nehemiya Ashel
+
 🙏 Acknowledgments
 
 Apache HTTP Server Project
